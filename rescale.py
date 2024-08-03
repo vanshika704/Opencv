@@ -1,6 +1,6 @@
-import cv2 as cv
+import cv2 as cv # iimport cv2 as cv
 
-# img = cv.imread('Images/pexels-tdcat-70912.jpg')
+# img = cv.imread('Images/pexels-tdcat-70912.jpg') #image ko read kro
 # cv.imshow('Cat', img )
 
 def rescaleFrame(frame ,  scale=0.75):
